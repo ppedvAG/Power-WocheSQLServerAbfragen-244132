@@ -1,4 +1,4 @@
-USE Northwind
+/USE Northwind
 
 /*
 	Inner JOIN:
