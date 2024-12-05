@@ -118,6 +118,36 @@
           <AssociatedConnUserName />
           <FullPath>15_WHILE.sql</FullPath>
         </FileNode>
+        <FileNode Name="16_DBDesign.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16_DBDesign.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17_Dateigruppen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>17_Dateigruppen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18_JOINArten.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18_JOINArten.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19_Partitionierung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>19_Partitionierung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20_Kompression.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20_Kompression.sql</FullPath>
+        </FileNode>
         <FileNode Name="Tag1_Wdh.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
@@ -129,6 +159,12 @@
           <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Tag2_Wdh.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Tag3_Wdh.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Tag3_Wdh.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
