@@ -148,6 +148,48 @@
           <AssociatedConnUserName />
           <FullPath>20_Kompression.sql</FullPath>
         </FileNode>
+        <FileNode Name="21_Index.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>21_Index.sql</FullPath>
+        </FileNode>
+        <FileNode Name="22_MAXDOP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>22_MAXDOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="23_Abfragepläne.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>23_Abfragepläne.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24_Profiler.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>24_Profiler.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25_LogScout.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>25_LogScout.sql</FullPath>
+        </FileNode>
+        <FileNode Name="26_SQLNexus.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>26_SQLNexus.sql</FullPath>
+        </FileNode>
+        <FileNode Name="27_RML.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>27_RML.sql</FullPath>
+        </FileNode>
         <FileNode Name="Tag1_Wdh.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
@@ -165,6 +207,12 @@
           <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Tag3_Wdh.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Tag4_Wdh.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Tag4_Wdh.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
